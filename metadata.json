@@ -1,0 +1,8 @@
+{
+  "name": "Personal Finance Tracker",
+  "description": "A comprehensive, modern personal finance tracker with automated balances, EMI, lending/borrowing, grocery tracking, budgets, and visual reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
